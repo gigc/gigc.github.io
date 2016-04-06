@@ -36,9 +36,8 @@ Argentine Congress on Computer Sciences (CACIC)
 
 ### Source Code
 >
-Codeplex Source code ISOCE (Image Space Occlusion Culling Engine)
-[Source Code Here](https://isoce.codeplex.com)
-[ISOCE PDF](http://gigcutn.com.ar.hdweb20.com.ar/wp-content/uploads/2013/03/ISOCE.pdf)
+Source code ISOCE (Image Space Occlusion Culling Engine)
+[Source Code Here](https://github.com/lebarba/Image-Space-Occlusion-Culling-Engine)
 >
 
 ### Contact
